@@ -31,5 +31,3 @@ if (saldoVitorias <10) {
 
 
 console.log(`O Herói tem um saldo de ${saldoVitorias} e está no nível ${nivel}`)
-
-// esse codigo sofreu 1 alteração
