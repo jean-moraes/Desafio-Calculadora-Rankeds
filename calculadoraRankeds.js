@@ -30,4 +30,4 @@ if (saldoVitorias <10) {
     else nivel = "Imortal"
 
 
-console.log(`O Herói tem um saldo de ${saldoVitorias} e está no nível ${nivel}`)
+console.log(`O Herói tem um saldo de ${saldoVitorias} e está no nível ${nivel}`)//
